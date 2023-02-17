@@ -1,2 +1,1 @@
-# test code
-2dadasdasda
+aku tampan
