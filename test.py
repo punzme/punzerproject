@@ -1,1 +1,2 @@
-{\rtf1}
+#test print
+print("test phyton tes tes")
