@@ -1,1 +1,1 @@
-aku tampan
+aku tampan sekalee
